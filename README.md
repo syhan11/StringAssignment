@@ -1,1 +1,1 @@
-"# Assignment Using substring(), length(), and charAt()" 
+"# Print out my name  is ..." 
